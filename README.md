@@ -13,3 +13,6 @@ QR Code Generator
 3.   qrCodeMatrix: This is a variable that stores the BitMatrix object returned by the encode method. It represents the QR code generated as a matrix of bits.
 
 The generated QR code can be further processed or displayed as an image using other Java libraries or APIs. For example, you can save the BitMatrix as an image file using ImageIO class from Java's standard library, or display it in a graphical user interface using a library like Swing or JavaFX.
+
+
+![image](https://user-images.githubusercontent.com/102504625/232736327-970af921-6da0-4e99-a54f-6c16445dbcc0.png)
