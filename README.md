@@ -1,3 +1,7 @@
+Example :-   https://sorathiya2005.github.io/QR-Code-Generator/
+
+
+
 # QR-Code-Generator
 QR Code Generator
 
